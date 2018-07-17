@@ -6,4 +6,8 @@ permalink: /about/
 
 ![SamarV-121](https://wallpapersite.com/images/pages/pic_w/8114.jpg)
 
-## Human being || 17 year old guy || Android enthusiast || Student || Thug :3
+<p align="center">
+  <b>humαn вєíng || 17 чєαr σld guч || αndrσíd єnthusíαst || studєnt || thug :3</b><br>
+  <b>❤❤ síngíng || clαssícαl musíc || αndrσíd || mαrvєl || dc || nαrutσ ❤❤</b><br>
+  <br><br>
+</p>  

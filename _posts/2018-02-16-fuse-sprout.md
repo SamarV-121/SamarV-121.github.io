@@ -80,9 +80,14 @@ author: Samar Vispute
 
 * Kernel Source - [View](https://github.com/SamarV-121/fuse_kernel_mediatek_sprout)
 
+### You can Donate Me if you like my work
+* PM me on Telegram: [Click here](https://web.telegram.org/#/im?p=@SamarV121)
+
 ### Installation
 1) Boot into the latest TWRP recovery
 
 2) Flash the Kernel's zip
 
 4) Reboot your device once the installation is done
+
+<!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5b504428f1cab(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5b504428f1cab"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5b504428f1cab=document.createElement('script');fcs_5b504428f1cab.type="text/javascript";fcs_5b504428f1cab.src=ajaxpath_5b504428f1cab((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5b504428f1cab&s=#!5b504428f1cab");setTimeout("document.getElementById('fcs_div_5b504428f1cab').appendChild(fcs_5b504428f1cab)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->

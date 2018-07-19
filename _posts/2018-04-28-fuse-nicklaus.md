@@ -67,9 +67,6 @@ author: Samar Vispute
 
 * Kernel Source - [View](https://github.com/SamarV-121/android_kernel_motorola_nicklaus)
 
-### You can Donate Me if you like my work
-* PM me on Telegram: [Click here](https://web.telegram.org/#/im?p=@SamarV121)
-
 ### Feature controlling:
 * [Modded Kernel Audiutor by bhb27](https://androidfilehost.com/?fid=962187416754468732) 
 * [ThunderZap Control](https://play.google.com/store/apps/details?id=com.varun.thunderzapcontrol&hl=en_IN) Use ThunderZap Control for controling Wi-Fi Power Management, ThunderCharg Features
@@ -89,5 +86,3 @@ Dont worry, it's a normal thing
 If you are experimenting huge lags, you have done something wrong
 
 Remember dis, Performance ∝ Battery Consumption :v 
-
-<!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5b503d67c3523(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5b503d67c3523"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5b503d67c3523=document.createElement('script');fcs_5b503d67c3523.type="text/javascript";fcs_5b503d67c3523.src=ajaxpath_5b503d67c3523((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5b503d67c3523&s=#!5b503d67c3523");setTimeout("document.getElementById('fcs_div_5b503d67c3523').appendChild(fcs_5b503d67c3523)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->

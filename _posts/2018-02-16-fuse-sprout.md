@@ -80,6 +80,9 @@ author: Samar Vispute
 
 * Kernel Source - [View](https://github.com/SamarV-121/fuse_kernel_mediatek_sprout)
 
+### You can Donate Me if you like my work
+* PM me on Telegram: [Click here](https://web.telegram.org/#/im?p=@SamarV121)
+
 ### Installation
 1) Boot into the latest TWRP recovery
 

@@ -71,6 +71,9 @@ author: Samar Vispute
 * [Modded Kernel Audiutor by bhb27](https://androidfilehost.com/?fid=962187416754468732) 
 * [ThunderZap Control](https://play.google.com/store/apps/details?id=com.varun.thunderzapcontrol&hl=en_IN) Use ThunderZap Control for controling Wi-Fi Power Management, ThunderCharg Features
 
+### You can Donate Me if you like my work
+* PM me on Telegram: [Click here](https://web.telegram.org/#/im?p=@SamarV121)
+
 ### Installation
 1) Boot into the latest TWRP recovery
 

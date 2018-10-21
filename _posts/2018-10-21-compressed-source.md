@@ -11,7 +11,7 @@ author: Samar Vispute
 ## What the fkuc this ?
 **Its the heaven for those who have slow internet/limited bandwidth :3**
 
-*Basically its a Highly Compressed Android Rom source*
+**_Basically its a Highly Compressed Android Rom source_**
 
 ### Date: 21-10-2018
 * LineageOS-14.1: [Click here](https://androidfilehost.com/?w=files&flid=284194)(Total size: 8.1 GB)
@@ -53,6 +53,6 @@ echo -e "# Uploading..."
 echo -e "# Done"
 ```
 
-### Thanks to regalstreak For his amazing [Script](https://github.com/regalstreak/skadoosh)
+#### Thanks to regalstreak For his amazing [Script](https://github.com/regalstreak/skadoosh)
 
 

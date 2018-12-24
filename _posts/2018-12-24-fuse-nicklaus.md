@@ -48,7 +48,7 @@ author: Samar Vispute
 2018-12-24 (r3)
 * Upstreamed to Latest Linux Kernel 3.18.131
 * Merged updates from new official kernel release - https://github.com/MotorolaMobilityLLC/kernel-mtk/releases/tag/MMI-NMA26.42-162
-* F2FS loopback fixed (Click here for more info)[https://github.com/SamarV-121/android_kernel_motorola_mt6735/issues/2]
+* F2FS loopback fixed [Click here for more info](https://github.com/SamarV-121/android_kernel_motorola_mt6735/issues/2)
 * Added fiops I/O Sched
 * RGB color control (MTK KCAL colout control)
 

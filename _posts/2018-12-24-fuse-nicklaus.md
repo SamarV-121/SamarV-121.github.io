@@ -67,6 +67,7 @@ author: Samar Vispute
 
 ### Downloads & sources
 * Fuse - [Download](https://www.androidfilehost.com/?fid=11410963190603881393)
+* Fuse for stock rom - [Download](https://www.androidfilehost.com/?fid=11410963190603883802)
 
 * Kernel Source - [View](https://github.com/SamarV-121/android_kernel_motorola_nicklaus)
 

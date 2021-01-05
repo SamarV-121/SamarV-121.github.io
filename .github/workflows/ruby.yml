@@ -1,0 +1,35 @@
+name: DependaBot Update Check via Ruby
+
+on:
+  pull_request:
+    paths:
+      - Gemfile
+      - Gemfile.lock
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@master
+      with:
+        ruby-version: 2.6.x
+    - name: Build and Update
+      run: |
+        gem install bundler
+        bundle install --jobs 16 --retry 3
+        bundle update
+        git diff Gemfile*
+  auto-merge:
+    runs-on: ubuntu-latest
+
+    needs: build
+
+    steps:
+      - name: auto-merge
+        uses: ridedott/dependabot-auto-merge-action@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GitOAUTHToken }}

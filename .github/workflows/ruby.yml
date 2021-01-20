@@ -5,11 +5,12 @@ on:
     paths:
       - Gemfile
       - Gemfile.lock
+  workflow_dispatch:
 
 jobs:
 
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
     - uses: actions/checkout@master
@@ -24,12 +25,10 @@ jobs:
         bundle update
         git diff Gemfile*
   auto-merge:
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-20.04
     needs: build
-
     steps:
       - name: auto-merge
         uses: ridedott/dependabot-auto-merge-action@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GitOAUTHToken }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
